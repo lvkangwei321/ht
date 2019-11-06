@@ -1,0 +1,1818 @@
+       [{
+            "goodsLogo": "https://resource.smartisan.com/resource/db372a4af2725e2a6262fd377b0488f4.jpg",
+            "goodsId": 1000603,
+            "goodsPrice": 499,
+            "discountPrice": 465,
+            "createTime":"2019-10-30 17:13:00",
+            "stockNum": 4,
+            "promotionList": [{
+                "tag": "新品",
+                "describe": "",
+                "type": 0,
+                "title": ""
+            }, {
+                "tag": "限时特价",
+                "describe": "",
+                "type": 5,
+                "title": "保价双11"
+            }],
+            "skuMobileTitle": "惠普小印手持照片打印机 Sprocket PLUS",
+            "skuMobileSubTitle": "",
+            "goodsIntro": "",
+            "skuTitle": "惠普小印手持照片打印机 Sprocket PLUS",
+            "goodsName": "惠普小印手持照片打印机 Sprocket PLUS",
+            "spuTitle": "惠普小印手持照片打印机 Sprocket PLUS",
+            "spuSubTitle": "保价双11",
+            "weight": 5
+        }, {
+            "goodsLogo": "https://resource.smartisan.com/resource/8d58e1ea15e893647cb789478cb86627.jpg",
+            "goodsId": 1000618,
+            "goodsPrice": 99,
+            "discountPrice": 99,
+            "createTime":"2019-10-30 17:13:00",
+            "stockNum": 10,
+            "promotionList": [{
+                "tag": "优惠券",
+                "describe": "",
+                "type": -1,
+                "title": ""
+            }, {
+                "tag": "新品",
+                "describe": "",
+                "type": 0,
+                "title": ""
+            }, {
+                "tag": "限时特价",
+                "describe": "",
+                "type": 5,
+                "title": "精品配件 限时直降"
+            }],
+            "skuMobileTitle": "畅呼吸电子温湿度计",
+            "skuMobileSubTitle": "冷暖干湿，一目了然",
+            "goodsIntro": "冷暖干湿，一目了然",
+            "skuTitle": "畅呼吸电子温湿度计",
+            "goodsName": "畅呼吸电子温湿度计",
+            "spuTitle": "畅呼吸电子温湿度计",
+            "spuSubTitle": "精品配件 限时直降",
+            "weight": 5
+        }, {
+            "goodsLogo": "https://resource.smartisan.com/resource/f6c83d2ed99d05eb9e3936bbba6fdaeb.jpg",
+            "goodsId": 1000619,
+            "goodsPrice": 449,
+            "discountPrice": 420,
+            "createTime":"2019-10-30 17:13:00",
+            "stockNum": 10,
+            "promotionList": [{
+                "tag": "优惠券",
+                "describe": "",
+                "type": -1,
+                "title": ""
+            }, {
+                "tag": "新品",
+                "describe": "",
+                "type": 0,
+                "title": ""
+            }, {
+                "tag": "限时特价",
+                "describe": "",
+                "type": 5,
+                "title": "保价双11"
+            }],
+            "skuMobileTitle": "惠普（HP）DeskJet 2676 彩色喷墨无线多功能打印机",
+            "skuMobileSubTitle": "",
+            "goodsIntro": "",
+            "skuTitle": "惠普（HP）DeskJet 2676 彩色喷墨无线多功能打印机",
+            "goodsName": "惠普（HP）DeskJet 2676 彩色喷墨无线多功能打印机",
+            "spuTitle": "惠普（HP）DeskJet 2676 彩色喷墨无线多功能打印机",
+            "spuSubTitle": "保价双11",
+            "weight": 5
+        }, {
+            "goodsLogo": "https://resource.smartisan.com/resource/3fdd1ef99b445aaf57726efcbad18fd3.jpg",
+            "goodsId": 1000620,
+            "goodsPrice": 499,
+            "discountPrice": 465,
+            "createTime":"2019-10-30 17:13:00",
+            "stockNum": 10,
+            "promotionList": [{
+                "tag": "优惠券",
+                "describe": "",
+                "type": -1,
+                "title": ""
+            }, {
+                "tag": "新品",
+                "describe": "",
+                "type": 0,
+                "title": ""
+            }, {
+                "tag": "限时特价",
+                "describe": "",
+                "type": 5,
+                "title": "保价双11"
+            }],
+            "skuMobileTitle": "惠普（HP）DeskJet 3636 彩色喷墨无线多功能打印机",
+            "skuMobileSubTitle": "",
+            "goodsIntro": "",
+            "skuTitle": "惠普（HP）DeskJet 3636 彩色喷墨无线多功能打印机",
+            "goodsName": "惠普（HP）DeskJet 3636 彩色喷墨无线多功能打印机",
+            "spuTitle": "惠普（HP）DeskJet 3636 彩色喷墨无线多功能打印机",
+            "spuSubTitle": "保价双11",
+            "weight": 5
+        }, {
+            "goodsLogo": "https://resource.smartisan.com/resource/1e6afa8b12edb8dc9e4d34d28ef2d8e3.jpg",
+            "goodsId": 1000622,
+            "goodsPrice": 1299,
+            "discountPrice": 1099,
+            "createTime":"2019-10-30 17:13:00",
+            "stockNum": 10,
+            "promotionList": [{
+                "tag": "优惠券",
+                "describe": "",
+                "type": -1,
+                "title": ""
+            }, {
+                "tag": "新品",
+                "describe": "",
+                "type": 0,
+                "title": ""
+            }, {
+                "tag": "限时特价",
+                "describe": "",
+                "type": 5,
+                "title": "保价双11"
+            }],
+            "skuMobileTitle": "惠普（HP）Smart Tank 511 彩色喷墨连供多功能打印机",
+            "skuMobileSubTitle": "",
+            "goodsIntro": "",
+            "skuTitle": "惠普（HP）Smart Tank 511 彩色喷墨连供多功能打印机",
+            "goodsName": "惠普（HP）Smart Tank 511 彩色喷墨连供多功能打印机",
+            "spuTitle": "惠普（HP）Smart Tank 511 彩色喷墨连供多功能打印机",
+            "spuSubTitle": "保价双11",
+            "weight": 5
+        }, {
+            "goodsLogo": "https://resource.smartisan.com/resource/eb7a595b90092112c9f370d50a67bae9.jpg",
+            "goodsId": 1000623,
+            "goodsPrice": 1199,
+            "discountPrice": 1010,
+            "createTime":"2019-10-30 17:13:00",
+            "stockNum": 10,
+            "promotionList": [{
+                "tag": "优惠券",
+                "describe": "",
+                "type": -1,
+                "title": ""
+            }, {
+                "tag": "新品",
+                "describe": "",
+                "type": 0,
+                "title": ""
+            }, {
+                "tag": "限时特价",
+                "describe": "",
+                "type": 5,
+                "title": "保价双11"
+            }],
+            "skuMobileTitle": "惠普（HP）Smart Tank 519 彩色喷墨连供多功能打印机",
+            "skuMobileSubTitle": "",
+            "goodsIntro": "",
+            "skuTitle": "惠普（HP）Smart Tank 519 彩色喷墨连供多功能打印机",
+            "goodsName": "惠普（HP）Smart Tank 519 彩色喷墨连供多功能打印机",
+            "spuTitle": "惠普（HP）Smart Tank 519 彩色喷墨连供多功能打印机",
+            "spuSubTitle": "保价双11",
+            "weight": 5
+        }, {
+            "goodsLogo": "https://resource.smartisan.com/resource/28e9e5aa0b2092c1b1d88923fa98fc7a.jpg",
+            "goodsId": 1000624,
+            "goodsPrice": 899,
+            "discountPrice": 840,
+            "createTime":"2019-10-30 17:13:00",
+            "stockNum": 10,
+            "promotionList": [{
+                "tag": "优惠券",
+                "describe": "",
+                "type": -1,
+                "title": ""
+            }, {
+                "tag": "新品",
+                "describe": "",
+                "type": 0,
+                "title": ""
+            }, {
+                "tag": "限时特价",
+                "describe": "",
+                "type": 5,
+                "title": "保价双11"
+            }],
+            "skuMobileTitle": "惠普（HP）Mini M17w 黑白激光无线单功能打印机",
+            "skuMobileSubTitle": "",
+            "goodsIntro": "",
+            "skuTitle": "惠普（HP）Mini M17w 黑白激光无线单功能打印机",
+            "goodsName": "惠普（HP）Mini M17w 黑白激光无线单功能打印机",
+            "spuTitle": "惠普（HP）Mini M17w 黑白激光无线单功能打印机",
+            "spuSubTitle": "保价双11",
+            "weight": 5
+        }, {
+            "goodsLogo": "https://resource.smartisan.com/resource/b161cb80c5d50feca3f4c2555b420e0a.jpg",
+            "goodsId": 1000625,
+            "goodsPrice": 79,
+            "discountPrice": 72,
+            "createTime":"2019-10-30 17:13:00",
+            "stockNum": 10,
+            "promotionList": [{
+                "tag": "新品",
+                "describe": "",
+                "type": 0,
+                "title": ""
+            }, {
+                "tag": "限时特价",
+                "describe": "",
+                "type": 5,
+                "title": "保价双11"
+            }],
+            "skuMobileTitle": "惠普(HP) 口袋照片打印机ZINK相纸（20张）",
+            "skuMobileSubTitle": "",
+            "goodsIntro": "",
+            "skuTitle": "惠普(HP) 口袋照片打印机ZINK相纸（20张）",
+            "goodsName": "惠普(HP) 口袋照片打印机ZINK相纸（20张）",
+            "spuTitle": "惠普(HP) 口袋照片打印机ZINK相纸（20张）",
+            "spuSubTitle": "保价双11",
+            "weight": 5
+        }, {
+            "goodsLogo": "https://resource.smartisan.com/resource/3673f869ad65d38b1b1e60bb94101e6a.jpg",
+            "goodsId": 1000626,
+            "goodsPrice": 69,
+            "discountPrice": 65,
+            "createTime":"2019-10-30 17:13:00",
+            "stockNum": 10,
+            "promotionList": [{
+                "tag": "新品",
+                "describe": "",
+                "type": 0,
+                "title": ""
+            }, {
+                "tag": "限时特价",
+                "describe": "",
+                "type": 5,
+                "title": "保价双11"
+            }],
+            "skuMobileTitle": "惠普（HP）原装680墨盒  适用HP2138 3638 3636 3838 5088打印机",
+            "skuMobileSubTitle": "适用HP2138 3638 3636 3838 5088打印机",
+            "goodsIntro": "适用HP2138 3638 3636 3838 5088打印机",
+            "skuTitle": "惠普（HP）原装680墨盒  适用HP2138 3638 3636 3838 5088打印机",
+            "goodsName": "惠普（HP）原装680墨盒  适用HP2138 3638 3636 3838 5088打印机",
+            "spuTitle": "惠普（HP）原装680墨盒  适用HP2138 3638 3636 3838 5088打印机",
+            "spuSubTitle": "保价双11",
+            "weight": 5
+        }, {
+            "goodsLogo": "https://resource.smartisan.com/resource/e74b000af097c95e36d4214c2a69c346.jpg",
+            "goodsId": 1000630,
+            "goodsPrice": 59,
+            "discountPrice": 54,
+            "createTime":"2019-10-30 17:13:00",
+            "stockNum": 10,
+            "promotionList": [{
+                "tag": "新品",
+                "describe": "",
+                "type": 0,
+                "title": ""
+            }, {
+                "tag": "限时特价",
+                "describe": "",
+                "type": 5,
+                "title": "保价双11"
+            }],
+            "skuMobileTitle": "惠普（HP）GT53XL 黑色墨水",
+            "skuMobileSubTitle": "支持型号：HP Ink Tank 310/318/319/ 311/ 410/418/419/ 411/ 118；HP Deskjet GT 5810 /5820All-in-One",
+            "goodsIntro": "支持型号：HP Ink Tank 310/318/319/ 311/ 410/418/419/ 411/ 118；HP Deskjet GT 5810 /5820All-in-One",
+            "skuTitle": "惠普（HP）GT53XL 黑色墨水",
+            "goodsName": "惠普（HP）GT53XL 黑色墨水",
+            "spuTitle": "惠普（HP）GT53XL 黑色墨水",
+            "spuSubTitle": "保价双11",
+            "weight": 5
+        }, {
+            "goodsLogo": "https://resource.smartisan.com/resource/62540d7e4f3ae9db080139d4bcc53f21.jpg",
+            "goodsId": 1000631,
+            "goodsPrice": 64,
+            "discountPrice": 60,
+            "createTime":"2019-10-30 17:13:00",
+            "stockNum": 10,
+            "promotionList": [{
+                "tag": "新品",
+                "describe": "",
+                "type": 0,
+                "title": ""
+            }, {
+                "tag": "限时特价",
+                "describe": "",
+                "type": 5,
+                "title": "保价双11"
+            }],
+            "skuMobileTitle": "惠普（HP）GT52彩色墨水",
+            "skuMobileSubTitle": "支持型号：HP Ink Tank 310/318/319/ 311/410/418/419/ 411/ 118/ 508/511/518/519/531/538/618；HP Deskjet GT 5810/5820 All-in-One",
+            "goodsIntro": "支持型号：HP Ink Tank 310/318/319/ 311/410/418/419/ 411/ 118/ 508/511/518/519/531/538/618；HP Deskjet GT 5810/5820 All-in-One",
+            "skuTitle": "惠普（HP）GT52彩色墨水",
+            "goodsName": "惠普（HP）GT52彩色墨水",
+            "spuTitle": "惠普（HP）GT52彩色墨水",
+            "spuSubTitle": "保价双11",
+            "weight": 5
+        }, {
+            "goodsLogo": "https://resource.smartisan.com/resource/fb28c165251f18de52c0c5b0d00f5301.jpg",
+            "goodsId": 1000633,
+            "goodsPrice": 1299,
+            "discountPrice": 1170,
+            "createTime":"2019-10-30 17:13:00",
+            "stockNum": 10,
+            "promotionList": [{
+                "tag": "新品",
+                "describe": "",
+                "type": 0,
+                "title": ""
+            }, {
+                "tag": "限时特价",
+                "describe": "",
+                "type": 5,
+                "title": "保价双11"
+            }],
+            "skuMobileTitle": "惠普（HP）Mini M30w 黑白激光无线多功能打印机",
+            "skuMobileSubTitle": "",
+            "goodsIntro": "",
+            "skuTitle": "惠普（HP）Mini M30w 黑白激光无线多功能打印机",
+            "goodsName": "惠普（HP）Mini M30w 黑白激光无线多功能打印机",
+            "spuTitle": "惠普（HP）Mini M30w 黑白激光无线多功能打印机",
+            "spuSubTitle": "保价双11",
+            "weight": 5
+        }, {
+            "goodsLogo": "https://resource.smartisan.com/resource/66b25ef2a60c262b6c2de2e2b60acb09.png",
+            "goodsId": 1000572,
+            "goodsPrice": 149,
+            "discountPrice": 0,
+            "createTime":"2019-10-30 17:13:00",
+            "stockNum": 6,
+            "promotionList": [{
+                "tag": "优惠券",
+                "describe": "",
+                "type": -1,
+                "title": ""
+            }, {
+                "tag": "满减",
+                "describe": "满398减70",
+                "type": 9,
+                "title": "满减398-70，满498-100"
+            }],
+            "skuMobileTitle": "Smartisan T恤 红白机",
+            "skuMobileSubTitle": "",
+            "goodsIntro": "",
+            "skuTitle": "Smartisan T恤 红白机",
+            "goodsName": "Smartisan T恤 红白机",
+            "spuTitle": "Smartisan T恤 红白机",
+            "spuSubTitle": "满减398-70，满498-100",
+            "weight": 3
+        }, {
+            "goodsLogo": "https://resource.smartisan.com/resource/1132e9af70e9d0a7abd2a8605c75b205.png",
+            "goodsId": 1000592,
+            "goodsPrice": 249,
+            "discountPrice": 0,
+            "createTime":"2019-10-30 17:13:00",
+            "stockNum": 7,
+            "promotionList": [{
+                "tag": "优惠券",
+                "describe": "",
+                "type": -1,
+                "title": ""
+            }, {
+                "tag": "新品",
+                "describe": "",
+                "type": 0,
+                "title": ""
+            }, {
+                "tag": "满减",
+                "describe": "满398减70",
+                "type": 9,
+                "title": "满减398-70，满498-100"
+            }],
+            "skuMobileTitle": "落栗 卫衣 圆领 莫里斯·麦当劳诞生",
+            "skuMobileSubTitle": "",
+            "goodsIntro": "",
+            "skuTitle": "落栗 卫衣 圆领 莫里斯·麦当劳诞生",
+            "goodsName": "落栗 卫衣 圆领 莫里斯·麦当劳诞生",
+            "spuTitle": "落栗 卫衣 圆领 莫里斯·麦当劳诞生",
+            "spuSubTitle": "满减398-70，满498-100",
+            "weight": 3
+        }, {
+            "goodsLogo": "https://resource.smartisan.com/resource/3ed99332f7fc6531d1448140b7dc0e46.jpg",
+            "goodsId": 1000593,
+            "goodsPrice": 249,
+            "discountPrice": 0,
+            "createTime":"2019-10-30 17:13:00",
+            "stockNum": 2,
+            "promotionList": [{
+                "tag": "优惠券",
+                "describe": "",
+                "type": -1,
+                "title": ""
+            }, {
+                "tag": "满减",
+                "describe": "满398减70",
+                "type": 9,
+                "title": "满减398-70，满498-100"
+            }],
+            "skuMobileTitle": "落栗 卫衣 圆领 开普勒轨道",
+            "skuMobileSubTitle": "",
+            "goodsIntro": "",
+            "skuTitle": "落栗 卫衣 圆领 开普勒轨道",
+            "goodsName": "落栗 卫衣 圆领 开普勒轨道",
+            "spuTitle": "落栗 卫衣 圆领 开普勒轨道",
+            "spuSubTitle": "满减398-70，满498-100",
+            "weight": 3
+        }, {
+            "goodsLogo": "https://resource.smartisan.com/resource/3218a971d4d837c31e10fa738ef7f91f.png",
+            "goodsId": 1000594,
+            "goodsPrice": 249,
+            "discountPrice": 0,
+            "createTime":"2019-10-30 17:13:00",
+            "stockNum": 3,
+            "promotionList": [{
+                "tag": "优惠券",
+                "describe": "",
+                "type": -1,
+                "title": ""
+            }, {
+                "tag": "满减",
+                "describe": "满398减70",
+                "type": 9,
+                "title": "满减398-70，满498-100"
+            }],
+            "skuMobileTitle": "落栗 卫衣 连帽 多普勒效应",
+            "skuMobileSubTitle": "",
+            "goodsIntro": "",
+            "skuTitle": "落栗 卫衣 连帽 多普勒效应",
+            "goodsName": "落栗 卫衣 连帽 多普勒效应",
+            "spuTitle": "落栗 卫衣 连帽 多普勒效应",
+            "spuSubTitle": "满减398-70，满498-100",
+            "weight": 3
+        }, {
+            "goodsLogo": "https://resource.smartisan.com/resource/567f3ae5e5c244ad3088bc2550ef3091.png",
+            "goodsId": 1000595,
+            "goodsPrice": 249,
+            "discountPrice": 0,
+            "createTime":"2019-10-30 17:13:00",
+            "stockNum": 4,
+            "promotionList": [{
+                "tag": "优惠券",
+                "describe": "",
+                "type": -1,
+                "title": ""
+            }, {
+                "tag": "新品",
+                "describe": "",
+                "type": 0,
+                "title": ""
+            }, {
+                "tag": "满减",
+                "describe": "满398减70",
+                "type": 9,
+                "title": "满减398-70，满498-100"
+            }],
+            "skuMobileTitle": "落栗 卫衣 圆领 百年孤独",
+            "skuMobileSubTitle": "",
+            "goodsIntro": "",
+            "skuTitle": "落栗 卫衣 圆领 百年孤独",
+            "goodsName": "落栗 卫衣 圆领 百年孤独",
+            "spuTitle": "落栗 卫衣 圆领 百年孤独",
+            "spuSubTitle": "满减398-70，满498-100",
+            "weight": 3
+        }, {
+            "goodsLogo": "https://resource.smartisan.com/resource/c4aec07a9b618d020b1f00b9ce9d3656.png",
+            "goodsId": 1000596,
+            "goodsPrice": 249,
+            "discountPrice": 0,
+            "createTime":"2019-10-30 17:13:00",
+            "stockNum": 6,
+            "promotionList": [{
+                "tag": "优惠券",
+                "describe": "",
+                "type": -1,
+                "title": ""
+            }, {
+                "tag": "满减",
+                "describe": "满398减70",
+                "type": 9,
+                "title": "满减398-70，满498-100"
+            }],
+            "skuMobileTitle": "落栗 卫衣 连帽 Smartisan 经典款",
+            "skuMobileSubTitle": "",
+            "goodsIntro": "",
+            "skuTitle": "落栗 卫衣 连帽 Smartisan 经典款",
+            "goodsName": "落栗 卫衣 连帽 Smartisan 经典款",
+            "spuTitle": "落栗 卫衣 连帽 Smartisan 经典款",
+            "spuSubTitle": "满减398-70，满498-100",
+            "weight": 3
+        }, {
+            "goodsLogo": "https://resource.smartisan.com/resource/50ad206f8df9439a4372a055e447d28b.png",
+            "goodsId": 1000597,
+            "goodsPrice": 249,
+            "discountPrice": 0,
+            "createTime":"2019-10-30 17:13:00",
+            "stockNum": 2,
+            "promotionList": [{
+                "tag": "优惠券",
+                "describe": "",
+                "type": -1,
+                "title": ""
+            }, {
+                "tag": "新品",
+                "describe": "",
+                "type": 0,
+                "title": ""
+            }, {
+                "tag": "满减",
+                "describe": "满398减70",
+                "type": 9,
+                "title": "满减398-70，满498-100"
+            }],
+            "skuMobileTitle": "落栗 卫衣 圆领 DNA 双螺旋",
+            "skuMobileSubTitle": "",
+            "goodsIntro": "",
+            "skuTitle": "落栗 卫衣 圆领 DNA 双螺旋",
+            "goodsName": "落栗 卫衣 圆领 DNA 双螺旋",
+            "spuTitle": "落栗 卫衣 圆领 DNA 双螺旋",
+            "spuSubTitle": "满减398-70，满498-100",
+            "weight": 3
+        }, {
+            "goodsLogo": "https://resource.smartisan.com/resource/3bdfee2a8681c05708ea35b794ed33c4.png",
+            "goodsId": 1000598,
+            "goodsPrice": 249,
+            "discountPrice": 0,
+            "createTime":"2019-10-30 17:13:00",
+            "stockNum": 2,
+            "promotionList": [{
+                "tag": "优惠券",
+                "describe": "",
+                "type": -1,
+                "title": ""
+            }, {
+                "tag": "新品",
+                "describe": "",
+                "type": 0,
+                "title": ""
+            }, {
+                "tag": "满减",
+                "describe": "满398减70",
+                "type": 9,
+                "title": "满减398-70，满498-100"
+            }],
+            "skuMobileTitle": "落栗 卫衣 连帽 莫里斯·麦当劳诞生",
+            "skuMobileSubTitle": "",
+            "goodsIntro": "",
+            "skuTitle": "落栗 卫衣 连帽 莫里斯·麦当劳诞生",
+            "goodsName": "落栗 卫衣 连帽 莫里斯·麦当劳诞生",
+            "spuTitle": "落栗 卫衣 连帽 莫里斯·麦当劳诞生",
+            "spuSubTitle": "满减398-70，满498-100",
+            "weight": 3
+        }, {
+            "goodsLogo": "https://resource.smartisan.com/resource/32ee5c79f8b53fd6724530103f7c85bf.png",
+            "goodsId": 1000599,
+            "goodsPrice": 199,
+            "discountPrice": 0,
+            "createTime":"2019-10-30 17:13:00",
+            "stockNum": 10,
+            "promotionList": [{
+                "tag": "优惠券",
+                "describe": "",
+                "type": -1,
+                "title": ""
+            }, {
+                "tag": "满减",
+                "describe": "满398减70",
+                "type": 9,
+                "title": "满减398-70，满498-100"
+            }],
+            "skuMobileTitle": "落栗 衬衫 牛津纺",
+            "skuMobileSubTitle": "",
+            "goodsIntro": "",
+            "skuTitle": "落栗 衬衫 牛津纺",
+            "goodsName": "落栗 衬衫 牛津纺",
+            "spuTitle": "落栗 衬衫 牛津纺",
+            "spuSubTitle": "满减398-70，满498-100",
+            "weight": 3
+        }, {
+            "goodsLogo": "https://resource.smartisan.com/resource/9934374dda26c292555dd1ec0887e17b.png",
+            "goodsId": 1000602,
+            "goodsPrice": 3199,
+            "discountPrice": 0,
+            "createTime":"2019-10-30 17:13:00",
+            "stockNum": 0,
+            "promotionList": [{
+                "tag": "优惠券",
+                "describe": "",
+                "type": -1,
+                "title": ""
+            }, {
+                "tag": "新品",
+                "describe": "",
+                "type": 0,
+                "title": ""
+            }, {
+                "tag": "买赠",
+                "describe": "",
+                "type": 1,
+                "title": "买即赠耳机，数量有限，送完为止！"
+            }],
+            "skuMobileTitle": "坚果 Pro 3",
+            "skuMobileSubTitle": "Smartisan OS 7.0 重装上阵 · 4800 万模范四摄 · 全新风格工业设计",
+            "goodsIntro": "Smartisan OS 7.0 重装上阵 · 4800 万模范四摄 · 全新风格工业设计",
+            "skuTitle": "坚果 Pro 3",
+            "goodsName": "坚果 Pro 3",
+            "spuTitle": "坚果 Pro 3",
+            "spuSubTitle": "买即赠耳机，数量有限，送完为止！",
+            "weight": 3
+        }, {
+            "goodsLogo": "https://resource.smartisan.com/resource/9368c948ea81a5b8bc2efa165488ccc6.jpg",
+            "goodsId": 1000604,
+            "goodsPrice": 49,
+            "discountPrice": 0,
+            "createTime":"2019-10-30 17:13:00",
+            "stockNum": 0,
+            "promotionList": [{
+                "tag": "优惠券",
+                "describe": "",
+                "type": -1,
+                "title": ""
+            }, {
+                "tag": "新品",
+                "describe": "",
+                "type": 0,
+                "title": ""
+            }],
+            "skuMobileTitle": "坚果 Pro 3 足迹保护套 人类首次公开使用乙醚",
+            "skuMobileSubTitle": "这一次，两面都有好故事",
+            "goodsIntro": "这一次，两面都有好故事",
+            "skuTitle": "坚果 Pro 3 足迹保护套 人类首次公开使用乙醚",
+            "goodsName": "坚果 Pro 3 足迹保护套 人类首次公开使用乙醚",
+            "spuTitle": "坚果 Pro 3 足迹保护套 人类首次公开使用乙醚",
+            "spuSubTitle": "这一次，两面都有好故事",
+            "weight": 3
+        }, {
+            "goodsLogo": "https://resource.smartisan.com/resource/db1f9c8eadd0164a34e73465a34776a3.jpg",
+            "goodsId": 1000605,
+            "goodsPrice": 49,
+            "discountPrice": 0,
+            "createTime":"2019-10-30 17:13:00",
+            "stockNum": 0,
+            "promotionList": [{
+                "tag": "优惠券",
+                "describe": "",
+                "type": -1,
+                "title": ""
+            }, {
+                "tag": "新品",
+                "describe": "",
+                "type": 0,
+                "title": ""
+            }],
+            "skuMobileTitle": "坚果 Pro 3 足迹保护套 德国天文学家开普勒出生",
+            "skuMobileSubTitle": "这一次，两面都有好故事",
+            "goodsIntro": "这一次，两面都有好故事",
+            "skuTitle": "坚果 Pro 3 足迹保护套 德国天文学家开普勒出生",
+            "goodsName": "坚果 Pro 3 足迹保护套 德国天文学家开普勒出生",
+            "spuTitle": "坚果 Pro 3 足迹保护套 德国天文学家开普勒出生",
+            "spuSubTitle": "这一次，两面都有好故事",
+            "weight": 3
+        }, {
+            "goodsLogo": "https://resource.smartisan.com/resource/3e94ac101870deff0a0178c6a714bde7.jpg",
+            "goodsId": 1000606,
+            "goodsPrice": 49,
+            "discountPrice": 0,
+            "createTime":"2019-10-30 17:13:00",
+            "stockNum": 0,
+            "promotionList": [{
+                "tag": "优惠券",
+                "describe": "",
+                "type": -1,
+                "title": ""
+            }, {
+                "tag": "新品",
+                "describe": "",
+                "type": 0,
+                "title": ""
+            }],
+            "skuMobileTitle": "坚果 Pro 3 足迹保护套 数学家哈密顿首次发现四元数",
+            "skuMobileSubTitle": "这一次，两面都有好故事",
+            "goodsIntro": "这一次，两面都有好故事",
+            "skuTitle": "坚果 Pro 3 足迹保护套 数学家哈密顿首次发现四元数",
+            "goodsName": "坚果 Pro 3 足迹保护套 数学家哈密顿首次发现四元数",
+            "spuTitle": "坚果 Pro 3 足迹保护套 数学家哈密顿首次发现四元数",
+            "spuSubTitle": "这一次，两面都有好故事",
+            "weight": 3
+        }, {
+            "goodsLogo": "https://resource.smartisan.com/resource/54d4b35e44224a323ef734fe4ad478ad.jpg",
+            "goodsId": 1000607,
+            "goodsPrice": 49,
+            "discountPrice": 0,
+            "createTime":"2019-10-30 17:13:00",
+            "stockNum": 0,
+            "promotionList": [{
+                "tag": "优惠券",
+                "describe": "",
+                "type": -1,
+                "title": ""
+            }, {
+                "tag": "新品",
+                "describe": "",
+                "type": 0,
+                "title": ""
+            }],
+            "skuMobileTitle": "坚果 Pro 3 足迹保护套 克里斯蒂安·多普勒出生",
+            "skuMobileSubTitle": "这一次，两面都有好故事",
+            "goodsIntro": "这一次，两面都有好故事",
+            "skuTitle": "坚果 Pro 3 足迹保护套 克里斯蒂安·多普勒出生",
+            "goodsName": "坚果 Pro 3 足迹保护套 克里斯蒂安·多普勒出生",
+            "spuTitle": "坚果 Pro 3 足迹保护套 克里斯蒂安·多普勒出生",
+            "spuSubTitle": "这一次，两面都有好故事",
+            "weight": 3
+        }, {
+            "goodsLogo": "https://resource.smartisan.com/resource/31c8be42fbbabad10490835d953be356.jpg",
+            "goodsId": 1000608,
+            "goodsPrice": 49,
+            "discountPrice": 0,
+            "createTime":"2019-10-30 17:13:00",
+            "stockNum": 0,
+            "promotionList": [{
+                "tag": "优惠券",
+                "describe": "",
+                "type": -1,
+                "title": ""
+            }, {
+                "tag": "新品",
+                "describe": "",
+                "type": 0,
+                "title": ""
+            }],
+            "skuMobileTitle": "坚果 Pro 3 足迹保护套 莫里斯·詹姆士·麦当劳出生",
+            "skuMobileSubTitle": "这一次，两面都有好故事",
+            "goodsIntro": "这一次，两面都有好故事",
+            "skuTitle": "坚果 Pro 3 足迹保护套 莫里斯·詹姆士·麦当劳出生",
+            "goodsName": "坚果 Pro 3 足迹保护套 莫里斯·詹姆士·麦当劳出生",
+            "spuTitle": "坚果 Pro 3 足迹保护套 莫里斯·詹姆士·麦当劳出生",
+            "spuSubTitle": "这一次，两面都有好故事",
+            "weight": 3
+        }, {
+            "goodsLogo": "https://resource.smartisan.com/resource/8e822aa7cbab24fec7eacf0bbb2f6526.jpg",
+            "goodsId": 1000609,
+            "goodsPrice": 24.9,
+            "discountPrice": 0,
+            "createTime":"2019-10-30 17:13:00",
+            "stockNum": 0,
+            "promotionList": [{
+                "tag": "优惠券",
+                "describe": "",
+                "type": -1,
+                "title": ""
+            }, {
+                "tag": "新品",
+                "describe": "",
+                "type": 0,
+                "title": ""
+            }],
+            "skuMobileTitle": "坚果 弯头数据线（Type-C）",
+            "skuMobileSubTitle": "”3A“大电流",
+            "goodsIntro": "”3A“大电流",
+            "skuTitle": "坚果 弯头数据线（Type-C）",
+            "goodsName": "坚果 弯头数据线（Type-C）",
+            "spuTitle": "坚果 弯头数据线（Type-C）",
+            "spuSubTitle": "”3A“大电流",
+            "weight": 3
+        }, {
+            "goodsLogo": "https://resource.smartisan.com/resource/a5b6bf1f38fb88dceeb1e917bec288da.jpg",
+            "goodsId": 1000610,
+            "goodsPrice": 199,
+            "discountPrice": 0,
+            "createTime":"2019-10-30 17:13:00",
+            "stockNum": 0,
+            "promotionList": [{
+                "tag": "优惠券",
+                "describe": "",
+                "type": -1,
+                "title": ""
+            }, {
+                "tag": "新品",
+                "describe": "",
+                "type": 0,
+                "title": ""
+            }],
+            "skuMobileTitle": "smartisan  颈挂蓝牙耳机",
+            "skuMobileSubTitle": "”圈铁一体代表作“",
+            "goodsIntro": "”圈铁一体代表作“",
+            "skuTitle": "smartisan  颈挂蓝牙耳机",
+            "goodsName": "smartisan  颈挂蓝牙耳机",
+            "spuTitle": "smartisan  颈挂蓝牙耳机",
+            "spuSubTitle": "”圈铁一体代表作“",
+            "weight": 3
+        }, {
+            "goodsLogo": "https://resource.smartisan.com/resource/3899737bb15dae97d261a080d3b9894d.jpg",
+            "goodsId": 1000611,
+            "goodsPrice": 69,
+            "discountPrice": 0,
+            "createTime":"2019-10-30 17:13:00",
+            "stockNum": 0,
+            "promotionList": [{
+                "tag": "优惠券",
+                "describe": "",
+                "type": -1,
+                "title": ""
+            }, {
+                "tag": "新品",
+                "describe": "",
+                "type": 0,
+                "title": ""
+            }],
+            "skuMobileTitle": "足迹保护套 人类首次公开使用乙醚 for iPhone 11",
+            "skuMobileSubTitle": "为了那些改变人类进程的足迹",
+            "goodsIntro": "为了那些改变人类进程的足迹",
+            "skuTitle": "足迹保护套 人类首次公开使用乙醚 for iPhone 11",
+            "goodsName": "足迹保护套 人类首次公开使用乙醚 for iPhone 11",
+            "spuTitle": "足迹保护套 人类首次公开使用乙醚 for iPhone 11",
+            "spuSubTitle": "为了那些改变人类进程的足迹",
+            "weight": 3
+        }, {
+            "goodsLogo": "https://resource.smartisan.com/resource/b466c9c2f8948309a8d9e4a9d1a437ef.jpg",
+            "goodsId": 1000612,
+            "goodsPrice": 69,
+            "discountPrice": 0,
+            "createTime":"2019-10-30 17:13:00",
+            "stockNum": 0,
+            "promotionList": [{
+                "tag": "优惠券",
+                "describe": "",
+                "type": -1,
+                "title": ""
+            }, {
+                "tag": "新品",
+                "describe": "",
+                "type": 0,
+                "title": ""
+            }],
+            "skuMobileTitle": "足迹保护套  英国科学杂志《自然》出版 for iPhone 11",
+            "skuMobileSubTitle": "为了那些改变人类进程的足迹",
+            "goodsIntro": "为了那些改变人类进程的足迹",
+            "skuTitle": "足迹保护套  英国科学杂志《自然》出版 for iPhone 11",
+            "goodsName": "足迹保护套  英国科学杂志《自然》出版 for iPhone 11",
+            "spuTitle": "足迹保护套  英国科学杂志《自然》出版 for iPhone 11",
+            "spuSubTitle": "为了那些改变人类进程的足迹",
+            "weight": 3
+        }, {
+            "goodsLogo": "https://resource.smartisan.com/resource/5bcb5d70f8c17efb0a2b4f9852a03128.jpg",
+            "goodsId": 1000613,
+            "goodsPrice": 69,
+            "discountPrice": 0,
+            "createTime":"2019-10-30 17:13:00",
+            "stockNum": 0,
+            "promotionList": [{
+                "tag": "优惠券",
+                "describe": "",
+                "type": -1,
+                "title": ""
+            }, {
+                "tag": "新品",
+                "describe": "",
+                "type": 0,
+                "title": ""
+            }],
+            "skuMobileTitle": "足迹保护套 克里斯蒂安·多普勒出生 for iPhone 11",
+            "skuMobileSubTitle": "为了那些改变人类进程的足迹",
+            "goodsIntro": "为了那些改变人类进程的足迹",
+            "skuTitle": "足迹保护套 克里斯蒂安·多普勒出生 for iPhone 11",
+            "goodsName": "足迹保护套 克里斯蒂安·多普勒出生 for iPhone 11",
+            "spuTitle": "足迹保护套 克里斯蒂安·多普勒出生 for iPhone 11",
+            "spuSubTitle": "为了那些改变人类进程的足迹",
+            "weight": 3
+        }, {
+            "goodsLogo": "https://resource.smartisan.com/resource/f060313b58a72053a89e1309bac4c3ab.jpg",
+            "goodsId": 1000614,
+            "goodsPrice": 69,
+            "discountPrice": 0,
+            "createTime":"2019-10-30 17:13:00",
+            "stockNum": 0,
+            "promotionList": [{
+                "tag": "优惠券",
+                "describe": "",
+                "type": -1,
+                "title": ""
+            }, {
+                "tag": "新品",
+                "describe": "",
+                "type": 0,
+                "title": ""
+            }],
+            "skuMobileTitle": "足迹保护套 莫里斯·詹姆士·麦当劳出生 for iPhone 11",
+            "skuMobileSubTitle": "为了那些改变人类进程的足迹",
+            "goodsIntro": "为了那些改变人类进程的足迹",
+            "skuTitle": "足迹保护套 莫里斯·詹姆士·麦当劳出生 for iPhone 11",
+            "goodsName": "足迹保护套 莫里斯·詹姆士·麦当劳出生 for iPhone 11",
+            "spuTitle": "足迹保护套 莫里斯·詹姆士·麦当劳出生 for iPhone 11",
+            "spuSubTitle": "为了那些改变人类进程的足迹",
+            "weight": 3
+        }, {
+            "goodsLogo": "https://resource.smartisan.com/resource/5888f9b53cd1184ac32f2ae778cd7804.jpg",
+            "goodsId": 1000615,
+            "goodsPrice": 69,
+            "discountPrice": 0,
+            "createTime":"2019-10-30 17:13:00",
+            "stockNum": 0,
+            "promotionList": [{
+                "tag": "优惠券",
+                "describe": "",
+                "type": -1,
+                "title": ""
+            }, {
+                "tag": "新品",
+                "describe": "",
+                "type": 0,
+                "title": ""
+            }],
+            "skuMobileTitle": "足迹保护套 莱卡成为第一只进入地球轨道的动物 for iPhone 11",
+            "skuMobileSubTitle": "为了那些改变人类进程的足迹",
+            "goodsIntro": "为了那些改变人类进程的足迹",
+            "skuTitle": "足迹保护套 莱卡成为第一只进入地球轨道的动物 for iPhone 11",
+            "goodsName": "足迹保护套 莱卡成为第一只进入地球轨道的动物 for iPhone 11",
+            "spuTitle": "足迹保护套 莱卡成为第一只进入地球轨道的动物 for iPhone 11",
+            "spuSubTitle": "为了那些改变人类进程的足迹",
+            "weight": 3
+        }, {
+            "goodsLogo": "https://resource.smartisan.com/resource/35e42edfb1f45543209d5b20ac81eb5a.jpg",
+            "goodsId": 1000632,
+            "goodsPrice": 1099,
+            "discountPrice": 0,
+            "createTime":"2019-10-30 17:13:00",
+            "stockNum": 10,
+            "promotionList": [{
+                "tag": "优惠券",
+                "describe": "",
+                "type": -1,
+                "title": ""
+            }, {
+                "tag": "新品",
+                "describe": "",
+                "type": 0,
+                "title": ""
+            }],
+            "skuMobileTitle": "LEVEL8 X 范特西联名PC拉杆箱（地球狂想）",
+            "skuMobileSubTitle": "地球狂想 态度当道",
+            "goodsIntro": "地球狂想 态度当道",
+            "skuTitle": "LEVEL8 X 范特西联名PC拉杆箱（地球狂想）",
+            "goodsName": "LEVEL8 X 范特西联名PC拉杆箱（地球狂想）",
+            "spuTitle": "LEVEL8 X 范特西联名PC拉杆箱（地球狂想）",
+            "spuSubTitle": "地球狂想 态度当道",
+            "weight": 3
+        }, {
+            "goodsLogo": "https://resource.smartisan.com/resource/445e4b562ae8199018e9956b882bedb3.jpg",
+            "goodsId": 1000634,
+            "goodsPrice": 1299,
+            "discountPrice": 0,
+            "createTime":"2019-10-30 17:13:00",
+            "stockNum": 10,
+            "promotionList": [{
+                "tag": "优惠券",
+                "describe": "",
+                "type": -1,
+                "title": ""
+            }, {
+                "tag": "新品",
+                "describe": "",
+                "type": 0,
+                "title": ""
+            }],
+            "skuMobileTitle": "LEVEL8 X 范特西联名20寸PC拉杆箱（地球狂想前开口版）",
+            "skuMobileSubTitle": "地球狂想 态度当道",
+            "goodsIntro": "地球狂想 态度当道",
+            "skuTitle": "LEVEL8 X 范特西联名20寸PC拉杆箱（地球狂想前开口版）",
+            "goodsName": "LEVEL8 X 范特西联名20寸PC拉杆箱（地球狂想前开口版）",
+            "spuTitle": "LEVEL8 X 范特西联名20寸PC拉杆箱（地球狂想前开口版）",
+            "spuSubTitle": "地球狂想 态度当道",
+            "weight": 3
+        }, {
+            "goodsLogo": "https://resource.smartisan.com/resource/2ed6f1289271fd94bc5b45e828408e94.jpg",
+            "goodsId": 1000635,
+            "goodsPrice": 1299,
+            "discountPrice": 0,
+            "createTime":"2019-10-30 17:13:00",
+            "stockNum": 10,
+            "promotionList": [{
+                "tag": "优惠券",
+                "describe": "",
+                "type": -1,
+                "title": ""
+            }, {
+                "tag": "新品",
+                "describe": "",
+                "type": 0,
+                "title": ""
+            }],
+            "skuMobileTitle": "LEVEL8 X 范特西联名20寸PC拉杆箱（地球狂想透明版）",
+            "skuMobileSubTitle": "地球狂想 态度当道",
+            "goodsIntro": "地球狂想 态度当道",
+            "skuTitle": "LEVEL8 X 范特西联名20寸PC拉杆箱（地球狂想透明版）",
+            "goodsName": "LEVEL8 X 范特西联名20寸PC拉杆箱（地球狂想透明版）",
+            "spuTitle": "LEVEL8 X 范特西联名20寸PC拉杆箱（地球狂想透明版）",
+            "spuSubTitle": "地球狂想 态度当道",
+            "weight": 3
+        }, {
+            "goodsLogo": "https://resource.smartisan.com/resource/bd3372047d251502348a16a533e866e0.jpg",
+            "goodsId": 1000638,
+            "goodsPrice": 49,
+            "discountPrice": 0,
+            "createTime":"2019-10-30 17:13:00",
+            "stockNum": 0,
+            "promotionList": [{
+                "tag": "新品",
+                "describe": "",
+                "type": 0,
+                "title": ""
+            }],
+            "skuMobileTitle": "坚果 Pro 3 smartisan 复古相机保护套",
+            "skuMobileSubTitle": "让你的坚果 Pro3化身为一台现代的“复古相机”",
+            "goodsIntro": "让你的坚果 Pro3化身为一台现代的“复古相机”",
+            "skuTitle": "坚果 Pro 3 smartisan 复古相机保护套",
+            "goodsName": "坚果 Pro 3 smartisan 复古相机保护套",
+            "spuTitle": "坚果 Pro 3 smartisan 复古相机保护套",
+            "spuSubTitle": "让你的坚果 Pro3化身为一台现代的“复古相机”",
+            "weight": 3
+        }, {
+            "goodsLogo": "https://resource.smartisan.com/resource/d4480234a2f24b0ff5acd98288fd902d.jpg",
+            "goodsId": 1000235,
+            "goodsPrice": 79,
+            "discountPrice": 59,
+            "createTime":"2019-10-30 17:13:00",
+            "stockNum": 10,
+            "promotionList": [{
+                "tag": "优惠券",
+                "describe": "",
+                "type": -1,
+                "title": ""
+            }, {
+                "tag": "限时特价",
+                "describe": "",
+                "type": 5,
+                "title": "精品配件 限时直降"
+            }],
+            "skuMobileTitle": "Smartisan 双口 \u0026 快充车载充电器",
+            "skuMobileSubTitle": "铝合金机身、双口 \u0026 快充、智能调节",
+            "goodsIntro": "铝合金机身、双口 \u0026 快充、智能调节",
+            "skuTitle": "Smartisan 双口 \u0026 快充车载充电器",
+            "goodsName": "Smartisan 双口 \u0026 快充车载充电器",
+            "spuTitle": "Smartisan 双口 \u0026 快充车载充电器",
+            "spuSubTitle": "精品配件 限时直降",
+            "weight": 2
+        }, {
+            "goodsLogo": "https://resource.smartisan.com/resource/dc53bd870ee64d2053ecc51750ece43a.jpg",
+            "goodsId": 1000267,
+            "goodsPrice": 49,
+            "discountPrice": 39,
+            "createTime":"2019-10-30 17:13:00",
+            "stockNum": 10,
+            "promotionList": [{
+                "tag": "优惠券",
+                "describe": "",
+                "type": -1,
+                "title": ""
+            }, {
+                "tag": "限时特价",
+                "describe": "",
+                "type": 5,
+                "title": "精品配件 限时直降"
+            }],
+            "skuMobileTitle": "Smartisan 原装快充充电器 18W",
+            "skuMobileSubTitle": "18W 安全快充",
+            "goodsIntro": "18W 安全快充",
+            "skuTitle": "Smartisan 原装快充充电器 18W",
+            "goodsName": "Smartisan 原装快充充电器 18W",
+            "spuTitle": "Smartisan 原装快充充电器 18W",
+            "spuSubTitle": "精品配件 限时直降",
+            "weight": 2
+        }, {
+            "goodsLogo": "https://resource.smartisan.com/resource/45312fb748d54aa2e58a8f4d637e9e65.jpg",
+            "goodsId": 1000268,
+            "goodsPrice": 19,
+            "discountPrice": 19,
+            "createTime":"2019-10-30 17:13:00",
+            "stockNum": 10,
+            "promotionList": [{
+                "tag": "限时特价",
+                "describe": "",
+                "type": 5,
+                "title": "精品配件 限时直降"
+            }],
+            "skuMobileTitle": "Smartisan 耳机转接头",
+            "skuMobileSubTitle": "即插即用、全面兼容",
+            "goodsIntro": "即插即用、全面兼容",
+            "skuTitle": "Smartisan 耳机转接头",
+            "goodsName": "Smartisan 耳机转接头",
+            "spuTitle": "Smartisan 耳机转接头",
+            "spuSubTitle": "精品配件 限时直降",
+            "weight": 2
+        }, {
+            "goodsLogo": "https://resource.smartisan.com/resource/6ff92d05a3bfab4fad489ca04d3eea5a.png",
+            "goodsId": 1000338,
+            "goodsPrice": 2799,
+            "discountPrice": 2499,
+            "createTime":"2019-10-30 17:13:00",
+            "stockNum": 10,
+            "promotionList": [{
+                "tag": "优惠券",
+                "describe": "",
+                "type": -1,
+                "title": ""
+            }, {
+                "tag": "限时特价",
+                "describe": "",
+                "type": 5,
+                "title": "畅呼吸特惠"
+            }],
+            "skuMobileTitle": "畅呼吸智能空气净化器 · 标准版",
+            "skuMobileSubTitle": "超强净化能力、超低噪音、超长寿命",
+            "goodsIntro": "超强净化能力、超低噪音、超长寿命",
+            "skuTitle": "畅呼吸智能空气净化器 · 标准版",
+            "goodsName": "畅呼吸智能空气净化器 · 标准版",
+            "spuTitle": "畅呼吸智能空气净化器 · 标准版",
+            "spuSubTitle": "畅呼吸特惠",
+            "weight": 2
+        }, {
+            "goodsLogo": "https://resource.smartisan.com/resource/daa975651d6d700c0f886718c520ee19.jpg",
+            "goodsId": 1000409,
+            "goodsPrice": 249,
+            "discountPrice": 199,
+            "createTime":"2019-10-30 17:13:00",
+            "stockNum": 10,
+            "promotionList": [{
+                "tag": "优惠券",
+                "describe": "",
+                "type": -1,
+                "title": ""
+            }, {
+                "tag": "限时特价",
+                "describe": "",
+                "type": 5,
+                "title": "直降50元"
+            }, {
+                "tag": "满减",
+                "describe": "满398减70",
+                "type": 9,
+                "title": "满减398-70，满498-100"
+            }],
+            "skuMobileTitle": "Smartisan Polo衫 经典款",
+            "skuMobileSubTitle": "一件表里如一的舒适 POLO 衫",
+            "goodsIntro": "一件表里如一的舒适 POLO 衫",
+            "skuTitle": "Smartisan Polo衫 经典款",
+            "goodsName": "Smartisan Polo衫 经典款",
+            "spuTitle": "Smartisan Polo衫 经典款",
+            "spuSubTitle": "满减398-70，满498-100",
+            "weight": 2
+        }, {
+            "goodsLogo": "https://resource.smartisan.com/resource/30ac0a1ab02999667f1362c501447e58.jpg",
+            "goodsId": 1000428,
+            "goodsPrice": 59,
+            "discountPrice": 39,
+            "createTime":"2019-10-30 17:13:00",
+            "stockNum": 10,
+            "promotionList": [{
+                "tag": "优惠券",
+                "describe": "",
+                "type": -1,
+                "title": ""
+            }, {
+                "tag": "限时特价",
+                "describe": "",
+                "type": 5,
+                "title": "精品配件 限时直降"
+            }],
+            "skuMobileTitle": "Smartisan 半入耳式耳机",
+            "skuMobileSubTitle": "经典配色、专业调音、高品质麦克风",
+            "goodsIntro": "经典配色、专业调音、高品质麦克风",
+            "skuTitle": "Smartisan 半入耳式耳机",
+            "goodsName": "Smartisan 半入耳式耳机",
+            "spuTitle": "Smartisan 半入耳式耳机",
+            "spuSubTitle": "精品配件 限时直降",
+            "weight": 2
+        }, {
+            "goodsLogo": "https://resource.smartisan.com/resource/33954b3f6a2f1614c5482ef130af9cc8.jpg",
+            "goodsId": 1000422,
+            "goodsPrice": 69,
+            "discountPrice": 68,
+            "createTime":"2019-10-30 17:13:00",
+            "stockNum": 10,
+            "promotionList": [{
+                "tag": "优惠券",
+                "describe": "",
+                "type": -1,
+                "title": ""
+            }, {
+                "tag": "限时特价",
+                "describe": "",
+                "type": 5,
+                "title": "精品配件 限时直降"
+            }],
+            "skuMobileTitle": "坚果“电池形电池”移动电源",
+            "skuMobileSubTitle": "别具一格的“全能型”移动电源",
+            "goodsIntro": "别具一格的“全能型”移动电源",
+            "skuTitle": "坚果“电池形电池”移动电源",
+            "goodsName": "坚果“电池形电池”移动电源",
+            "spuTitle": "坚果“电池形电池”移动电源",
+            "spuSubTitle": "精品配件 限时直降",
+            "weight": 2
+        }, {
+            "goodsLogo": "https://resource.smartisan.com/resource/8635cb91f2cdbbc5576e069c52b99412.jpg",
+            "goodsId": 1000471,
+            "goodsPrice": 39,
+            "discountPrice": 36,
+            "createTime":"2019-10-30 17:13:00",
+            "stockNum": 10,
+            "promotionList": [{
+                "tag": "限时特价",
+                "describe": "",
+                "type": 5,
+                "title": "精品配件 限时直降"
+            }],
+            "skuMobileTitle": "坚果 Type-C To Type-C 数据线",
+            "skuMobileSubTitle": "TPE 环保材质，PTC 过温保护",
+            "goodsIntro": "TPE 环保材质，PTC 过温保护",
+            "skuTitle": "坚果 Type-C To Type-C 数据线",
+            "goodsName": "坚果 Type-C To Type-C 数据线",
+            "spuTitle": "坚果 Type-C To Type-C 数据线",
+            "spuSubTitle": "精品配件 限时直降",
+            "weight": 2
+        }, {
+            "goodsLogo": "https://resource.smartisan.com/resource/a668d1a5f41b04ece82d76ded1e94d3a.jpg",
+            "goodsId": 1000470,
+            "goodsPrice": 59,
+            "discountPrice": 58,
+            "createTime":"2019-10-30 17:13:00",
+            "stockNum": 10,
+            "promotionList": [{
+                "tag": "优惠券",
+                "describe": "",
+                "type": -1,
+                "title": ""
+            }, {
+                "tag": "限时特价",
+                "describe": "",
+                "type": 5,
+                "title": "精品配件 限时直降"
+            }],
+            "skuMobileTitle": "坚果 QuickCharge 4+ 快速充电器",
+            "skuMobileSubTitle": "全面兼容的 18W 快速充电",
+            "goodsIntro": "全面兼容的 18W 快速充电",
+            "skuTitle": "坚果 QuickCharge 4+ 快速充电器",
+            "goodsName": "坚果 QuickCharge 4+ 快速充电器",
+            "spuTitle": "坚果 QuickCharge 4+ 快速充电器",
+            "spuSubTitle": "精品配件 限时直降",
+            "weight": 2
+        }, {
+            "goodsLogo": "https://resource.smartisan.com/resource/6e96ccea3bd56bdd2243eb20330cec30.jpg",
+            "goodsId": 1000528,
+            "goodsPrice": 149,
+            "discountPrice": 99,
+            "createTime":"2019-10-30 17:13:00",
+            "stockNum": 10,
+            "promotionList": [{
+                "tag": "优惠券",
+                "describe": "",
+                "type": -1,
+                "title": ""
+            }, {
+                "tag": "限时特价",
+                "describe": "",
+                "type": 5,
+                "title": "精品配件 限时直降"
+            }],
+            "skuMobileTitle": "坚果砖式蓝牙小音箱",
+            "skuMobileSubTitle": "一款设计出色、音质出众的随身音箱",
+            "goodsIntro": "一款设计出色、音质出众的随身音箱",
+            "skuTitle": "坚果砖式蓝牙小音箱",
+            "goodsName": "坚果砖式蓝牙小音箱",
+            "spuTitle": "坚果砖式蓝牙小音箱",
+            "spuSubTitle": "精品配件 限时直降",
+            "weight": 2
+        }, {
+            "goodsLogo": "https://resource.smartisan.com/resource/82aab62886740f165a3631ce6cffe895.jpg",
+            "goodsId": 1000530,
+            "goodsPrice": 19,
+            "discountPrice": 16,
+            "createTime":"2019-10-30 17:13:00",
+            "stockNum": 10,
+            "promotionList": [{
+                "tag": "优惠券",
+                "describe": "",
+                "type": -1,
+                "title": ""
+            }, {
+                "tag": "限时特价",
+                "describe": "",
+                "type": 5,
+                "title": "精品配件 限时直降"
+            }],
+            "skuMobileTitle": "坚果彩虹数据线",
+            "skuMobileSubTitle": "七彩配色随机发货，为生活增添一份小小惊喜",
+            "goodsIntro": "七彩配色随机发货，为生活增添一份小小惊喜",
+            "skuTitle": "坚果彩虹数据线",
+            "goodsName": "坚果彩虹数据线",
+            "spuTitle": "坚果彩虹数据线",
+            "spuSubTitle": "精品配件 限时直降",
+            "weight": 2
+        }, {
+            "goodsLogo": "https://resource.smartisan.com/resource/235a6c634a38aa2ccf1d6d82ec47103f.png",
+            "goodsId": 1000533,
+            "goodsPrice": 399,
+            "discountPrice": 359,
+            "createTime":"2019-10-30 17:13:00",
+            "stockNum": 10,
+            "promotionList": [{
+                "tag": "优惠券",
+                "describe": "",
+                "type": -1,
+                "title": ""
+            }, {
+                "tag": "限时特价",
+                "describe": "",
+                "type": 5,
+                "title": "地平线 8号箱包 特惠直降"
+            }],
+            "skuMobileTitle": "地平线 8 号旅行箱",
+            "skuMobileSubTitle": "简约设计、德国拜耳 PC 箱体 ",
+            "goodsIntro": "简约设计、德国拜耳 PC 箱体 ",
+            "skuTitle": "地平线 8 号旅行箱",
+            "goodsName": "地平线 8 号旅行箱",
+            "spuTitle": "地平线 8 号旅行箱",
+            "spuSubTitle": "地平线 8号箱包 特惠直降",
+            "weight": 2
+        }, {
+            "goodsLogo": "https://resource.smartisan.com/resource/190a2b0f96274c85973e1dd6ba3b511b.png",
+            "goodsId": 1000532,
+            "goodsPrice": 1199,
+            "discountPrice": 0,
+            "createTime":"2019-10-30 17:13:00",
+            "stockNum": 7,
+            "promotionList": [],
+            "skuMobileTitle": "地平线 8 号商务旅行箱",
+            "skuMobileSubTitle": "为了野心和远方",
+            "goodsIntro": "为了野心和远方",
+            "skuTitle": "地平线 8 号商务旅行箱",
+            "goodsName": "地平线 8 号商务旅行箱",
+            "spuTitle": "地平线 8 号商务旅行箱",
+            "spuSubTitle": "地平线 8号箱包 特惠直降",
+            "weight": 2
+        }, {
+            "goodsLogo": "https://resource.smartisan.com/resource/9bffe702b1f0aea221b1f18ddf886958.jpg",
+            "goodsId": 1000556,
+            "goodsPrice": 499,
+            "discountPrice": 399,
+            "createTime":"2019-10-30 17:13:00",
+            "stockNum": 10,
+            "promotionList": [{
+                "tag": "限时特价",
+                "describe": "",
+                "type": 5,
+                "title": "直降100元"
+            }],
+            "skuMobileTitle": "各色DNA检测套装",
+            "skuMobileSubTitle": "千万级基因位点数据解读",
+            "goodsIntro": "千万级基因位点数据解读",
+            "skuTitle": "各色DNA检测套装",
+            "goodsName": "各色DNA检测套装",
+            "spuTitle": "各色DNA检测套装",
+            "spuSubTitle": "直降100元",
+            "weight": 2
+        }, {
+            "goodsLogo": "https://resource.smartisan.com/resource/f55641e23f35f6dd82226b6c4a043f00.jpg",
+            "goodsId": 1000529,
+            "goodsPrice": 99,
+            "discountPrice": 89,
+            "createTime":"2019-10-30 17:13:00",
+            "stockNum": 10,
+            "promotionList": [{
+                "tag": "优惠券",
+                "describe": "",
+                "type": -1,
+                "title": ""
+            }, {
+                "tag": "限时特价",
+                "describe": "",
+                "type": 5,
+                "title": "精品配件 限时直降"
+            }],
+            "skuMobileTitle": "坚果三脚架自拍杆",
+            "skuMobileSubTitle": "两种模式，随时随地都能拍得开心",
+            "goodsIntro": "两种模式，随时随地都能拍得开心",
+            "skuTitle": "坚果三脚架自拍杆",
+            "goodsName": "坚果三脚架自拍杆",
+            "spuTitle": "坚果三脚架自拍杆",
+            "spuSubTitle": "精品配件 限时直降",
+            "weight": 2
+        }, {
+            "goodsLogo": "https://resource.smartisan.com/resource/25cd192a66e0dbd0f12dd723d1ea53f2.jpg",
+            "goodsId": 1000584,
+            "goodsPrice": 299,
+            "discountPrice": 269,
+            "createTime":"2019-10-30 17:13:00",
+            "stockNum": 4,
+            "promotionList": [{
+                "tag": "优惠券",
+                "describe": "",
+                "type": -1,
+                "title": ""
+            }, {
+                "tag": "限时特价",
+                "describe": "",
+                "type": 5,
+                "title": "地平线 8号箱包 特惠直降"
+            }],
+            "skuMobileTitle": "地平线 8 号 全功能城市背包 Atlas X",
+            "skuMobileSubTitle": "一款通行城市的全功能双肩包",
+            "goodsIntro": "一款通行城市的全功能双肩包",
+            "skuTitle": "地平线 8 号 全功能城市背包 Atlas X",
+            "goodsName": "地平线 8 号 全功能城市背包 Atlas X",
+            "spuTitle": "地平线 8 号 全功能城市背包 Atlas X",
+            "spuSubTitle": "地平线 8号箱包 特惠直降",
+            "weight": 2
+        }, {
+            "goodsLogo": "https://resource.smartisan.com/resource/9960e83a55544fbf7b046013a6f7f414.jpg",
+            "goodsId": 1000588,
+            "goodsPrice": 599,
+            "discountPrice": 0,
+            "createTime":"2019-10-30 17:13:00",
+            "stockNum": 10,
+            "promotionList": [],
+            "skuMobileTitle": "地平线 8 号 28 寸旅行箱",
+            "skuMobileSubTitle": "一款让旅行箱挑剔者满意的旅行箱",
+            "goodsIntro": "一款让旅行箱挑剔者满意的旅行箱",
+            "skuTitle": "地平线 8 号 28 寸旅行箱",
+            "goodsName": "地平线 8 号 28 寸旅行箱",
+            "spuTitle": "地平线 8 号 28 寸旅行箱",
+            "spuSubTitle": "地平线 8号箱包 特惠直降",
+            "weight": 2
+        }, {
+            "goodsLogo": "https://resource.smartisan.com/resource/32de3f32aea18639e29e3d1c9f821c96.jpeg",
+            "goodsId": 1000589,
+            "goodsPrice": 399,
+            "discountPrice": 0,
+            "createTime":"2019-10-30 17:13:00",
+            "stockNum": 10,
+            "promotionList": [{
+                "tag": "优惠券",
+                "describe": "",
+                "type": -1,
+                "title": ""
+            }],
+            "skuMobileTitle": "地平线 8 号旅行箱 冰川粉",
+            "skuMobileSubTitle": "高级淡雅，颠覆你对粉色的固有想象",
+            "goodsIntro": "高级淡雅，颠覆你对粉色的固有想象",
+            "skuTitle": "地平线 8 号旅行箱 冰川粉",
+            "goodsName": "地平线 8 号旅行箱 冰川粉",
+            "spuTitle": "地平线 8 号旅行箱 冰川粉",
+            "spuSubTitle": "地平线 8号箱包 特惠直降",
+            "weight": 2
+        }, {
+            "goodsLogo": "https://resource.smartisan.com/resource/00eee903962f17d75950397843117e6e.jpg",
+            "goodsId": 1000365,
+            "goodsPrice": 699,
+            "discountPrice": 0,
+            "createTime":"2019-10-30 17:13:00",
+            "stockNum": 10,
+            "promotionList": [{
+                "tag": "优惠券",
+                "describe": "",
+                "type": -1,
+                "title": ""
+            }],
+            "skuMobileTitle": "畅呼吸除霾除甲醛高效复合滤芯",
+            "skuMobileSubTitle": "精选双层防护材质、过滤更精细、去味更有效",
+            "goodsIntro": "精选双层防护材质、过滤更精细、去味更有效",
+            "skuTitle": "畅呼吸除霾除甲醛高效复合滤芯",
+            "goodsName": "畅呼吸除霾除甲醛高效复合滤芯",
+            "spuTitle": "畅呼吸除霾除甲醛高效复合滤芯",
+            "spuSubTitle": "精选双层防护材质、过滤更精细、去味更有效",
+            "weight": 0
+        }, {
+            "goodsLogo": "https://resource.smartisan.com/resource/4d83d72c5ecc288e8d5ddd9d06b80f99.jpg",
+            "goodsId": 1000364,
+            "goodsPrice": 599,
+            "discountPrice": 0,
+            "createTime":"2019-10-30 17:13:00",
+            "stockNum": 10,
+            "promotionList": [{
+                "tag": "优惠券",
+                "describe": "",
+                "type": -1,
+                "title": ""
+            }],
+            "skuMobileTitle": "畅呼吸除甲醛超级活性炭滤芯",
+            "skuMobileSubTitle": "家装等场景适用的专业除甲醛超级活性炭滤芯",
+            "goodsIntro": "家装等场景适用的专业除甲醛超级活性炭滤芯",
+            "skuTitle": "畅呼吸除甲醛超级活性炭滤芯",
+            "goodsName": "畅呼吸除甲醛超级活性炭滤芯",
+            "spuTitle": "畅呼吸除甲醛超级活性炭滤芯",
+            "spuSubTitle": "家装等场景适用的专业除甲醛超级活性炭滤芯",
+            "weight": 0
+        }, {
+            "goodsLogo": "https://resource.smartisan.com/resource/1c13034d1028f3620d487c1db7184a51.jpg",
+            "goodsId": 1000397,
+            "goodsPrice": 199,
+            "discountPrice": 0,
+            "createTime":"2019-10-30 17:13:00",
+            "stockNum": 0,
+            "promotionList": [{
+                "tag": "优惠券",
+                "describe": "",
+                "type": -1,
+                "title": ""
+            }, {
+                "tag": "满减",
+                "describe": "满398减70",
+                "type": 9,
+                "title": "满减398-70，满498-100"
+            }],
+            "skuMobileTitle": "Smartisan 帆布鞋",
+            "skuMobileSubTitle": "一双踏实、舒适的帆布鞋",
+            "goodsIntro": "一双踏实、舒适的帆布鞋",
+            "skuTitle": "Smartisan 帆布鞋",
+            "goodsName": "Smartisan 帆布鞋",
+            "spuTitle": "Smartisan 帆布鞋",
+            "spuSubTitle": "满减398-70，满498-100",
+            "weight": 0
+        }, {
+            "goodsLogo": "https://resource.smartisan.com/resource/71432ad30288fb860a4389881069b874.png",
+            "goodsId": 1000405,
+            "goodsPrice": 2999,
+            "discountPrice": 0,
+            "createTime":"2019-10-30 17:13:00",
+            "stockNum": 0,
+            "promotionList": [{
+                "tag": "优惠券",
+                "describe": "",
+                "type": -1,
+                "title": ""
+            }],
+            "skuMobileTitle": "畅呼吸智能空气净化器 · 超级除甲醛版",
+            "skuMobileSubTitle": "超强除甲醛能力，超低噪音，智能操控",
+            "goodsIntro": "超强除甲醛能力，超低噪音，智能操控",
+            "skuTitle": "畅呼吸智能空气净化器 · 超级除甲醛版",
+            "goodsName": "畅呼吸智能空气净化器 · 超级除甲醛版",
+            "spuTitle": "畅呼吸智能空气净化器 · 超级除甲醛版",
+            "spuSubTitle": "超强除甲醛能力，超低噪音，智能操控",
+            "weight": 0
+        }, {
+            "goodsLogo": "https://resource.smartisan.com/resource/13e91511f6ba3227ca5378fd2e93c54b.png",
+            "goodsId": 1000406,
+            "goodsPrice": 1299,
+            "discountPrice": 0,
+            "createTime":"2019-10-30 17:13:00",
+            "stockNum": 0,
+            "promotionList": [],
+            "skuMobileTitle": "坚果 3",
+            "skuMobileSubTitle": "漂亮得不像实力派",
+            "goodsIntro": "漂亮得不像实力派",
+            "skuTitle": "坚果 3",
+            "goodsName": "坚果 3",
+            "spuTitle": "坚果 3",
+            "spuSubTitle": "漂亮得不像实力派",
+            "weight": 0
+        }, {
+            "goodsLogo": "https://resource.smartisan.com/resource/574abf59d5cfd440d8370eb99118c44a.png",
+            "goodsId": 1000479,
+            "goodsPrice": 1899,
+            "discountPrice": 0,
+            "createTime":"2019-10-30 17:13:00",
+            "stockNum": 0,
+            "promotionList": [],
+            "skuMobileTitle": "坚果 Pro 2 特别版",
+            "skuMobileSubTitle": "漂亮得不像实力派",
+            "goodsIntro": "漂亮得不像实力派",
+            "skuTitle": "坚果 Pro 2 特别版",
+            "goodsName": "坚果 Pro 2 特别版",
+            "spuTitle": "坚果 Pro 2 特别版",
+            "spuSubTitle": "漂亮得不像实力派",
+            "weight": 0
+        }, {
+            "goodsLogo": "https://resource.smartisan.com/resource/06c2253354096f5e9ebf0616f1af2086.png",
+            "goodsId": 1000464,
+            "goodsPrice": 2999,
+            "discountPrice": 0,
+            "createTime":"2019-10-30 17:13:00",
+            "stockNum": 0,
+            "promotionList": [],
+            "skuMobileTitle": "坚果 R1",
+            "skuMobileSubTitle": "次世代旗舰手机，内藏来自未来的“电脑”",
+            "goodsIntro": "次世代旗舰手机，内藏来自未来的“电脑”",
+            "skuTitle": "坚果 R1",
+            "goodsName": "坚果 R1",
+            "spuTitle": "坚果 R1",
+            "spuSubTitle": "次世代旗舰手机，内藏来自未来的“电脑”",
+            "weight": 0
+        }, {
+            "goodsLogo": "https://resource.smartisan.com/resource/25cc6e783a664fbdf83c3c34774a9826.png",
+            "goodsId": 1000517,
+            "goodsPrice": 1998,
+            "discountPrice": 0,
+            "createTime":"2019-10-30 17:13:00",
+            "stockNum": 0,
+            "promotionList": [],
+            "skuMobileTitle": "坚果 Pro 2S",
+            "skuMobileSubTitle": "双系统，无限屏",
+            "goodsIntro": "双系统，无限屏",
+            "skuTitle": "坚果 Pro 2S",
+            "goodsName": "坚果 Pro 2S",
+            "spuTitle": "坚果 Pro 2S",
+            "spuSubTitle": "双系统，无限屏",
+            "weight": 0
+        }, {
+            "goodsLogo": "https://resource.smartisan.com/resource/2c3376d7cee14ca0b28e64683601b941.png",
+            "goodsId": 1000573,
+            "goodsPrice": 129,
+            "discountPrice": 0,
+            "createTime":"2019-10-30 17:13:00",
+            "stockNum": 10,
+            "promotionList": [{
+                "tag": "优惠券",
+                "describe": "",
+                "type": -1,
+                "title": ""
+            }, {
+                "tag": "满减",
+                "describe": "满398减70",
+                "type": 9,
+                "title": "满减398-70，满498-100"
+            }],
+            "skuMobileTitle": "Smartisan T恤 萌锤",
+            "skuMobileSubTitle": "",
+            "goodsIntro": "",
+            "skuTitle": "Smartisan T恤 萌锤",
+            "goodsName": "Smartisan T恤 萌锤",
+            "spuTitle": "Smartisan T恤 萌锤",
+            "spuSubTitle": "满减398-70，满498-100",
+            "weight": 0
+        }, {
+            "goodsLogo": "https://resource.smartisan.com/resource/005c65324724692f7c9ba2fc7738db13.png",
+            "goodsId": 1000574,
+            "goodsPrice": 149,
+            "discountPrice": 0,
+            "createTime":"2019-10-30 17:13:00",
+            "stockNum": 1,
+            "promotionList": [{
+                "tag": "优惠券",
+                "describe": "",
+                "type": -1,
+                "title": ""
+            }, {
+                "tag": "满减",
+                "describe": "满398减70",
+                "type": 9,
+                "title": "满减398-70，满498-100"
+            }],
+            "skuMobileTitle": "Smartisan T恤 迪特拉姆斯",
+            "skuMobileSubTitle": "",
+            "goodsIntro": "",
+            "skuTitle": "Smartisan T恤 迪特拉姆斯",
+            "goodsName": "Smartisan T恤 迪特拉姆斯",
+            "spuTitle": "Smartisan T恤 迪特拉姆斯",
+            "spuSubTitle": "满减398-70，满498-100",
+            "weight": 0
+        }, {
+            "goodsLogo": "https://resource.smartisan.com/resource/e9cd634b62470713f6b9c5a6065f4a10.jpg",
+            "goodsId": 1000575,
+            "goodsPrice": 149,
+            "discountPrice": 0,
+            "createTime":"2019-10-30 17:13:00",
+            "stockNum": 7,
+            "promotionList": [{
+                "tag": "优惠券",
+                "describe": "",
+                "type": -1,
+                "title": ""
+            }, {
+                "tag": "满减",
+                "describe": "满398减70",
+                "type": 9,
+                "title": "满减398-70，满498-100"
+            }],
+            "skuMobileTitle": "Smartisan T恤 毕加索",
+            "skuMobileSubTitle": "",
+            "goodsIntro": "",
+            "skuTitle": "Smartisan T恤 毕加索",
+            "goodsName": "Smartisan T恤 毕加索",
+            "spuTitle": "Smartisan T恤 毕加索",
+            "spuSubTitle": "满减398-70，满498-100",
+            "weight": 0
+        }, {
+            "goodsLogo": "https://resource.smartisan.com/resource/523f99151e23ab444702c6043a09bd4e.png",
+            "goodsId": 1000577,
+            "goodsPrice": 149,
+            "discountPrice": 0,
+            "createTime":"2019-10-30 17:13:00",
+            "stockNum": 10,
+            "promotionList": [{
+                "tag": "优惠券",
+                "describe": "",
+                "type": -1,
+                "title": ""
+            }, {
+                "tag": "满减",
+                "describe": "满398减70",
+                "type": 9,
+                "title": "满减398-70，满498-100"
+            }],
+            "skuMobileTitle": "Smartisan T恤 丑小鸭",
+            "skuMobileSubTitle": "",
+            "goodsIntro": "",
+            "skuTitle": "Smartisan T恤 丑小鸭",
+            "goodsName": "Smartisan T恤 丑小鸭",
+            "spuTitle": "Smartisan T恤 丑小鸭",
+            "spuSubTitle": "满减398-70，满498-100",
+            "weight": 0
+        }, {
+            "goodsLogo": "https://resource.smartisan.com/resource/86412947ca2aaf8c0e34a4988cdb2f5c.jpg",
+            "goodsId": 1000578,
+            "goodsPrice": 149,
+            "discountPrice": 0,
+            "createTime":"2019-10-30 17:13:00",
+            "stockNum": 10,
+            "promotionList": [{
+                "tag": "满减",
+                "describe": "满398减70",
+                "type": 9,
+                "title": "满减398-70，满498-100"
+            }],
+            "skuMobileTitle": "Smartisan T恤 经典款",
+            "skuMobileSubTitle": "",
+            "goodsIntro": "",
+            "skuTitle": "Smartisan T恤 经典款",
+            "goodsName": "Smartisan T恤 经典款",
+            "spuTitle": "Smartisan T恤 经典款",
+            "spuSubTitle": "满减398-70，满498-100",
+            "weight": 0
+        }, {
+            "goodsLogo": "https://resource.smartisan.com/resource/22c95761b040112ee4ff6e4653691ae6.png",
+            "goodsId": 1000579,
+            "goodsPrice": 149,
+            "discountPrice": 0,
+            "createTime":"2019-10-30 17:13:00",
+            "stockNum": 0,
+            "promotionList": [{
+                "tag": "优惠券",
+                "describe": "",
+                "type": -1,
+                "title": ""
+            }],
+            "skuMobileTitle": "Smartisan T恤 薛定谔",
+            "skuMobileSubTitle": "",
+            "goodsIntro": "",
+            "skuTitle": "Smartisan T恤 薛定谔",
+            "goodsName": "Smartisan T恤 薛定谔",
+            "spuTitle": "Smartisan T恤 薛定谔",
+            "spuSubTitle": "",
+            "weight": 0
+        }, {
+            "goodsLogo": "https://resource.smartisan.com/resource/2d106f8a751539abba6f446d3cda7818.jpg",
+            "goodsId": 1000590,
+            "goodsPrice": 129,
+            "discountPrice": 0,
+            "createTime":"2019-10-30 17:13:00",
+            "stockNum": 10,
+            "promotionList": [{
+                "tag": "优惠券",
+                "describe": "",
+                "type": -1,
+                "title": ""
+            }, {
+                "tag": "买赠",
+                "describe": "",
+                "type": 1,
+                "title": "买即赠39元数据线"
+            }],
+            "skuMobileTitle": "坚果快充移动电源 10000mAh （18W max）",
+            "skuMobileSubTitle": "支持QC3.0/PD3.0协议，USB-C口可支持苹果手机快充，小巧便携，多重安全防护",
+            "goodsIntro": "支持QC3.0/PD3.0协议，USB-C口可支持苹果手机快充，小巧便携，多重安全防护",
+            "skuTitle": "坚果快充移动电源 10000mAh （18W max）",
+            "goodsName": "坚果快充移动电源 10000mAh （18W max）",
+            "spuTitle": "坚果快充移动电源 10000mAh （18W max）",
+            "spuSubTitle": "买即赠39元数据线",
+            "weight": 0
+        }, {
+            "goodsLogo": "https://resource.smartisan.com/resource/834e8388b0017c457c98baa6545cdfb2.jpg",
+            "goodsId": 1000591,
+            "goodsPrice": 168,
+            "discountPrice": 0,
+            "createTime":"2019-10-30 17:13:00",
+            "stockNum": 10,
+            "promotionList": [{
+                "tag": "满减",
+                "describe": "满398减70",
+                "type": 9,
+                "title": "满减398-70，满498-100"
+            }],
+            "skuMobileTitle": "C-force  USB-C多功能转接器",
+            "skuMobileSubTitle": "可以替换Switch底座的超便携4K视频转接器",
+            "goodsIntro": "可以替换Switch底座的超便携4K视频转接器",
+            "skuTitle": "C-force  USB-C多功能转接器",
+            "goodsName": "C-force  USB-C多功能转接器",
+            "spuTitle": "C-force  USB-C多功能转接器",
+            "spuSubTitle": "满减398-70，满498-100",
+            "weight": 0
+        }]

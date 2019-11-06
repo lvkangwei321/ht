@@ -1,1 +1,23 @@
-<div>aaa</div>
+ <div class="col-md-6">
+          <div class="tile">
+             <button class="btn btn-primary" type="button" ><span class = "fa fa-plus"></span>添加用户</button>
+            <table class="table table-bordered">
+              <thead>
+                <tr>
+                  <th>#</th>
+                  <th>用户名</th>
+                  <th>用户职业</th>
+                  <th>头像</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>1</td>
+                  <td>595955856@qq.com</td>
+                  <td>前端开发工程师</td>
+                  <td>@mdo</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>

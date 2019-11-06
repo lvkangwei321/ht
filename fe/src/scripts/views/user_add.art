@@ -1,0 +1,10 @@
+ <div class="form-group">
+                    <label for="exampleInputEmail1">用户名</label>
+                    <input class="form-control" id="exampleInputEmail1" type="email" aria-describedby="emailHelp" placeholder="请输入用户名""><small class="form-text text-muted" id="emailHelp">我们不会暴漏任何用户的邮箱地址</small>
+                  </div>
+                  <div class="form-group">
+                    <label for="exampleInputPassword1">用户职业</label>
+                    <input class="form-control" id="exampleInputPassword1" type="text" placeholder="请输入用户职业">
+                  </div>
+                   <button class="btn btn-success" type="button">提交</button>
+                      <button class="btn btn-danger return-user" type="button">取消</button>

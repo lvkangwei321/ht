@@ -1,0 +1,29 @@
+<form class="form-group" 
+   id = "goodsUpdateForm"
+    role="form" 
+    enctype="multipart/form-data"
+ >
+<label for="exampleInputEmail1">商品名称</label>
+<input class="form-control" type="text" aria-describedby="emailHelp"
+   value = {{goodsList.goodsName}} name="goodsName"><small class="form-text text-muted" id="emailHelp"></small>
+
+<label for="exampleInputPassword1">商品介绍</label>
+<input class="form-control" type="text"  value = {{goodsList.goodsIntro}}
+   name="goodsIntro">
+<label for="exampleInputPassword1">商品价格</label>
+<input class="form-control"  type="text"  value = {{goodsList.goodsPrice}}
+   name="goodsPrice">
+
+   <label for="exampleInputPassword1">商品ID</label>
+   <input class="form-control"  type="text"  value = {{goodsList.goodsId}}
+   name="goodsId">
+   <label for="exampleInputPassword1">原商品LOGO</label>
+ <img src=http://localhost:3000/upload/{{goodsList.goodsLogo}} style = "width:60px;height:60px">
+    <label for="exampleInputPassword1">上传商品LOGO</label>
+<img src="https://via.placeholder.com/60" class = "preImg" style = "width:60px;height:60px">
+     
+   <input class="form-control " id = "changeFile" type="file" placeholder=""
+   name="goodsLogo">
+   <button class="btn btn-success" type="button">提交</button>
+<button class="btn btn-danger return-user" type="button">取消</button>
+</form>

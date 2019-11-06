@@ -1,4 +1,5 @@
 import get from '../models/http'
+import store from 'store'
 class Layout {
   constructor() {
     $(window).on('load hashchange',function(){
@@ -19,9 +20,12 @@ class Layout {
         url: '/api/users/signOut',
         type: 'get'
       })
+      store.remove('token')
+      localStorage.removeItem("currentPage")
       location.reload()
     })
   }
+ 
 }
 
 export default new Layout()

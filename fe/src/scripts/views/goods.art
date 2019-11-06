@@ -1,1 +1,55 @@
-<div>bbb</div>
+ <div class="col-md-6">
+          <div class="tile">
+             <button class="btn btn-primary" type="button" ><span class = "fa fa-plus"></span>添加商品</button>
+                {{if total!==0}}
+        <li class="app-search">
+          <input id = "search" class="app-search__input" style="border:1px solid black" type="search" placeholder="Search">
+        </li>
+     
+            <table class="table table-bordered" style = "text-align:center">
+              <thead>
+                <tr>
+                <th>序号</th>
+                  <th>商品图片</th>
+                  <th>更新时间</th>
+                  <th>商品ID</th>
+                  <th>商品名称</th>
+                  <th>商品价格</th>
+                  <th>商品简介</th>
+                  <th>商品操作</th>
+                </tr>
+              </thead>
+              <tbody>
+              {{each goodsList}}
+                <tr >
+                  <td>{{$index+1}}</td>
+                  <td  ><img src={{$value.goodsLogo}} style = "width:60px ;height:60px"></td>
+                  <td class = "time" datetime= "{{$value.createTime}}"></td>
+                  <td>{{$value.goodsId}}</td>
+                  <td>{{$value.goodsName}}</td>
+                  <td>{{$value.goodsPrice}}</td>
+                  <td>{{$value.goodsIntro}}</td>
+                  <td><span class = "fa fa-pencil-square-o"> <button class = "change" data-id = {{$value._id}}> 编辑</span></button> <span class = "fa fa-times" style = "margin-left : 20px"> <button class = "delete"  data-id = {{$value._id}}>  删除</span></button> </td>
+                </tr>
+                {{/each}}
+              </tbody>
+
+            </table>
+             <div>
+             {{if totalPage}}
+                <ul class="pagination">
+                  <li class=" first-page"><a class="page-link" href="javascript:void(0)">«</a></li>
+                  {{each totalPage}}
+                  {{if currentPage == $value + 1}}
+                  <li class="page-item active"><a class="page-link" href="javascript:void(0)">{{$value + 1}}</a></li>
+                  {{else}}
+                <li class="page-item"><a class="page-link" href="javascript:void(0)">{{$value + 1}}</a></li>
+                  {{/if}}
+               {{/each}}
+                  <li class=" last-page" last-page = {{totalPage.length}}><a class="page-link" href="javascript:void(0)">»</a></li>
+                </ul>
+                {{/if}}
+              </div>
+{{/if}}
+          </div>
+        </div>

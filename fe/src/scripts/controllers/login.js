@@ -13,6 +13,7 @@ class Login{
             })
             switch(res.data.message){
                     case '1' : alert('登录成功')
+                    localStorage.setItem("currentPage",1)
                     location.hash = '/index/user'
                     break;
                     case '2' : alert('账号不存在')

@@ -7,6 +7,9 @@ export const user = async (req, res, next) => {
   })
   if(result.ret){
     res.render(userView())
+    $('.btn-primary').on('click',function(){
+      res.go('/index/user_add')
+    })
   }
  else{
    alert("没有账户权限,请登录")

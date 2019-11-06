@@ -36,8 +36,6 @@ const mailBoom = async function(req,res){
     if(mycode != undefined){
      let username = req.body.username;
      let result =  await findOne({"account":username})
-    //  console.log(mycode);
-     console.log(result[0].code);
       if(mycode == result[0].code){
         res.render('succ', {
           data: JSON.stringify({

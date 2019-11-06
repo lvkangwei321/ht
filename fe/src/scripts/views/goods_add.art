@@ -1,0 +1,35 @@
+<form class="form-group" 
+   id = "goodsAddForm"
+    role="form" 
+    method="post" 
+      action="/api/goods/goods_add" 
+    enctype="multipart/form-data"
+ >
+ <div>
+<label for="exampleInputEmail1">商品名称</label>
+<input class="form-control"  type="text" aria-describedby="emailHelp" datatype = "*"  sucmsg = "验证成功" placeholder="请输入商品名称"
+ errormsg = "不能为空"  name="goodsName">
+</div>
+<div>
+<label for="exampleInputPassword1">商品介绍</label>
+<input class="form-control"  type="text" placeholder="请输入商品介绍" datatype = "*"  sucmsg = "验证成功" errormsg = "不能为空" name="goodsIntro">
+   </div>
+   <div>
+<label for="exampleInputPassword1">商品价格</label>
+<input class="form-control" type="text" placeholder="请输入商品价格" datatype = "*"  sucmsg = "验证成功" errormsg = "不能为空"
+   name="goodsPrice">
+     </div>
+ <div>
+   <label for="exampleInputPassword1">商品ID</label>
+   <input class="form-control" type="text" placeholder="请输入商品ID" datatype = "*"  sucmsg = "验证成功" errormsg = "不能为空"
+   name="goodsId">
+     </div>
+
+     <div>
+   <label for="exampleInputPassword1">商品LOGO</label>
+   <img src="https://via.placeholder.com/60" class = "preImg" style = "width:60px;height:60px">
+   <input class="form-control" type="file" placeholder="" id="changeFile" name="goodsLogo" datatype = "*"  sucmsg = "验证成功" errormsg = "不能为空">
+        </div>
+<button class="btn btn-success" type="button">提交</button>
+<button class="btn btn-danger return-user" type="button">取消</button>
+</form>

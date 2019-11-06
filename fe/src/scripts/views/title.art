@@ -1,0 +1,9 @@
+  <div>
+          <h1><i class="fa fa-dashboard"></i>{{title.title}}</h1>
+          <p>{{title.subtitle}}</p>
+        </div>
+        <ul class="app-breadcrumb breadcrumb">
+          <li class="breadcrumb-item"><i class="fa fa-home fa-lg"></i></li>
+          <li class="breadcrumb-item"><a href="#/index/goods">{{breadcrumb.level1}}</a></li>
+          <li class="breadcrumb-item"><a href="javascript:void(0)">{{breadcrumb.level2}}</a></li>
+ </ul>
